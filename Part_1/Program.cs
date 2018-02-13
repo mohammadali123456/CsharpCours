@@ -10,6 +10,8 @@ namespace Part_1
     {
         static void Main(string[] args)
         {
+            // This is a Syn
+            //
             // Variable 
             int my_Value = 10;
             Console.WriteLine("{0}" ,my_Value);
